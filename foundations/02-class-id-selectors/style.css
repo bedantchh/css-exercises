@@ -2,7 +2,7 @@
     background-color: #ffc0cb;
     font-family: verdana,"dejavu sans", "san-serif";
 }
-#cool{
+.font-size{
     font-size: 28px;
 }
 .no1{
@@ -12,5 +12,4 @@
 .no2{
     background-color: #90ee90;
     font-weight: bold;
-    font-size: 28px;
 }
